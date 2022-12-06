@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adilijaz
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m working on react-native developer.
+- 👀 I’m interested in Hybird Mobile Development
+- 🌱 I’m working as a MERN stack Developer.
 
 <!---
 adilijaz/adilijaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
